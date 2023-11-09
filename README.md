@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<table>
+  <tr>
+    <th>
+      <a href="https://github.com/ky-frontend">ky-frontend</a>
+    </th>
+    <th>
+      <a href="https://github.com/ky-client">ky-client</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ky-frontend">
+        <img src="https://avatars.githubusercontent.com/u/135008958?s=200&v=4" alt="ky-client" width="200" height="200">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ky-client">
+        <img src="https://avatars.githubusercontent.com/u/134248962?s=200&v=4" alt="ky-frontend" width="200" height="200">
+      </a>
+    </td>
+  </tr>
+</table>
