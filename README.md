@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://github.com/ky-frontend">
-        <img src="https://avatars.githubusercontent.com/u/135008958?s=200&v=4" alt="ky-client" width="200" height="200">
+        <img src="https://avatars.githubusercontent.com/u/135008958?s=150&v=4" alt="ky-client" width="150" height="150">
       </a>
     </td>
     <td>
       <a href="https://github.com/ky-client">
-        <img src="https://avatars.githubusercontent.com/u/134248962?s=200&v=4" alt="ky-frontend" width="200" height="200">
+        <img src="https://avatars.githubusercontent.com/u/134248962?s=150&v=4" alt="ky-frontend" width="150" height="150">
       </a>
     </td>
   </tr>
